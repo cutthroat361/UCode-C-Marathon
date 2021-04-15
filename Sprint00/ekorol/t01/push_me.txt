@@ -1,4 +1,0 @@
-git add push_me.txt
-git commit -m "commit message"
-git push
-
